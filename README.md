@@ -22,3 +22,7 @@ A collection of shell scripts and shell functions (mostly bash).
 ## psi
 * Documentation (German): http://wiki.natenom.name/linux/shell-funktionen/push_song_information
 
+## mobilephone
+* Documentation (English): http://w.natenom.name/wiki/Linux/KDE/Service_Menu/Mobile_music
+* Documentation (German): http://wiki.natenom.name/linux/kde/servicemenues/mobile_music
+
