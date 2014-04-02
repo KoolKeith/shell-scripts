@@ -1,0 +1,12 @@
+[Desktop Entry]
+ServiceTypes=KonqPopupMenu/Plugin,audio/*
+Type=Service
+Actions=convert;
+X-KDE-ServiceTypes=KonqPopupMenu/Plugin
+MimeType=application/octet-stream;
+X-KDE-Submenu=MobilePhone
+
+[Desktop Action convert]
+Name=Convert to MobilePhone (cbr)
+Icon=
+Exec=/usr/local/bin/convert_music_to_mobilephone.sh %U 
