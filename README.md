@@ -13,7 +13,7 @@ A collection of shell scripts and shell functions (mostly bash).
 * Documentation (German): http://wiki.natenom.name/linux/shell-funktionen/getmumbleurl
 
 ### push_murmur.sh
-* 
+* Documentation (German): http://wiki.natenom.name/mumble/tools/push_murmur
 
 ## misc
 ### speedtest_query.sh
