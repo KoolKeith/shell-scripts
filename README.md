@@ -19,4 +19,6 @@ A collection of shell scripts and shell functions (mostly bash).
 ### speedtest_query.sh
 * Documenation (German): http://wiki.natenom.name/linux/scripte/speedtest_query
 
+## psi
+* Documentation (German): http://wiki.natenom.name/linux/shell-funktionen/push_song_information
 
