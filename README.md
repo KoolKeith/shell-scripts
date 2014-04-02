@@ -8,9 +8,12 @@ A collection of shell scripts and shell functions (mostly bash).
 * Documentation (English): http://w.natenom.name/wiki/Mumble-Starter_shell_script
 * Documentation (German): http://wiki.natenom.name/mumble/tools/mumble-starter
 
-## getmumbleurl
+### getmumbleurl.sh
 * Documentation (English): http://w.natenom.name/wiki/Linux/Shell-Functions/getmumbleurl
 * Documentation (German): http://wiki.natenom.name/linux/shell-funktionen/getmumbleurl
+
+### push_murmur.sh
+* 
 
 ## misc
 ### speedtest_query.sh
