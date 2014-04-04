@@ -1,0 +1,12 @@
+[Desktop Entry]
+ServiceTypes=KonqPopupMenu/Plugin,image/*
+Type=Service
+Actions=rmd;
+X-KDE-ServiceTypes=KonqPopupMenu/Plugin
+MimeType=application/octet-stream;
+X-KDE-Submenu=MetaInformation
+
+[Desktop Action rmd]
+Name=Remove most Metadata, add Author information
+Icon=
+Exec=exifmodify.sh "%f"
