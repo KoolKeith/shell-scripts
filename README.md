@@ -4,7 +4,7 @@ shell-scripts
 A collection of shell scripts and shell functions (mostly bash).
 
 ## metadata
-* Documentation (English): https://w.natenom.name/wiki/Linux/KDE/Service_Menu/Remove_Special_Metadata
+* Documentation (English): http://w.natenom.name/wiki/Linux/KDE/Service_Menu/Remove_Special_Metadata
 * Documentation (German): http://wiki.natenom.name/linux/kde/servicemenues/metainformationen2
 
 ## misc
