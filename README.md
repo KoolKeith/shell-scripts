@@ -1,6 +1,5 @@
 shell-scripts
 =============
-
 A collection of shell scripts and shell functions (mostly bash).
 
 ## metadata
