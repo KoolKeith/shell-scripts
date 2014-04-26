@@ -6,6 +6,11 @@ A collection of shell scripts and shell functions (mostly bash).
 * Documentation (English): http://w.natenom.name/wiki/Linux/KDE/Service_Menu/Remove_Special_Metadata
 * Documentation (German): http://wiki.natenom.name/linux/kde/servicemenues/metainformationen2
 
+## kvm
+### backup_image.sh
+* Documentation (English): http://w.natenom.name/wiki/Backupscript_for_KVM
+* Documentation (German): http://wiki.natenom.name/linux/scripte/backup_images 
+
 ## misc
 ### speedtest_query.sh
 * Documenation (German): http://wiki.natenom.name/linux/scripte/speedtest_query
