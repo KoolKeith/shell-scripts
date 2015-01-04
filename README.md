@@ -33,6 +33,10 @@ A collection of shell scripts and shell functions (mostly bash).
 * Documentation (English): http://wiki.natenom.com/w/Push_murmur.sh
 * Documentation (German): http://wiki.natenom.de/mumble/tools/push_murmur
 
+### km.sh ###
+* Documentation (English): http://wiki.natenom.com/w/Mumble-Starter_shell_script#Graphical_User_Interface_for_the_starter_script
+* Documentation (German): http://wiki.natenom.de/mumble/tools/mumble-starter#grafisches_interface_fuer_das_script
+
 ## psi
 * Documentation (English): http://wiki.natenom.com/w/Push_song_information
 * Documentation (German): http://wiki.natenom.de/linux/shell-funktionen/push_song_information
