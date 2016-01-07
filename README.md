@@ -9,12 +9,23 @@ A collection of shell scripts and shell functions (mostly bash).
 ## kvm
 ### backup_image.sh
 * Documentation (English): https://wiki.natenom.com/w/Backupscript_for_KVM
-* Documentation (German): https://wiki.natenom.de/linux/scripte/backup_images 
+* Documentation (German): https://wiki.natenom.de/linux/scripte/backup_images
 
 ## misc
 ### speedtest_query.sh
 * Documentation (English): https://wiki.natenom.com/w/Speedtest_results
 * Documenation (German): https://wiki.natenom.de/linux/scripte/speedtest_query
+
+### pdfreduce.sh
+Usage:
+pdfreduce.sh directory
+
+The scripts uses find to get all PDF files within directory. Then it checks whether
+there is already a low quality variant of the PDF file; it not, it creates one and
+checks if the file size is really slower than the file size of the original file.
+If smaller the file gets copied next to the original file.
+This script uses /tmp to generate the low quality variants which is better for your SSD in case
+of /tmp being a tmpfs :)
 
 ## mobilephone
 * Documentation (English): https://wiki.natenom.com/w/Linux/KDE/Service_Menu/Mobile_music
@@ -40,4 +51,3 @@ A collection of shell scripts and shell functions (mostly bash).
 ## psi
 * Documentation (English): https://wiki.natenom.com/w/Push_song_information
 * Documentation (German): https://wiki.natenom.de/linux/shell-funktionen/push_song_information
-
